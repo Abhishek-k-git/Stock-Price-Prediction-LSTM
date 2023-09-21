@@ -5,7 +5,7 @@
 * [Folder Structure](#Folder-Structure)
 * [Setup](#Setup)
 * [Deployment](#Deployment)
-* [Go to App](#Application)
+* [Go to App](https://stock-price-prediction-lstm.streamlit.app/))
 
 ### Overview
 
@@ -75,7 +75,3 @@ Customize your app by updating the name, adding a thumbnail, or changing the pri
 ```diff
 ! Note: In Python, a requirements.txt file is a type of file that usually stores information about all the libraries, modules, and packages in itself that are used while developing a particular project. It should be included, while deploying on streamlit live server.
 ```
-
-### Application
-
-[Click me to view live application from here](https://stock-price-prediction-lstm.streamlit.app/)
