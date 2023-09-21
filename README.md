@@ -1,6 +1,6 @@
 ## Stock Price Prediction Using LSTM
 
-![poster](https://github.com/Abhishek-k-git/Movies-App/blob/main/screenshot/movies-app.png)
+![poster]([https://github.com/Abhishek-k-git/Movies-App/blob/main/screenshot/movies-app.png](https://github.com/Abhishek-k-git/Stock-Price-Prediction-LSTM/blob/main/image/poster.jpg))
 
 ### Table of content
 * [Overview](#Overview)
