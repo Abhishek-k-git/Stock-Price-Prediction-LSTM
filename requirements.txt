@@ -8,3 +8,4 @@ tensorflow
 pandas_datareader
 yfinance
 sklearn
+scikit-learn
