@@ -5,7 +5,7 @@
 * [Folder Structure](#Folder-Structure)
 * [Setup](#Setup)
 * [Deployment](#Deployment)
-* [Go to App](https://stock-price-prediction-lstm.streamlit.app/))
+* [Go to App](https://stock-price-prediction-lstm.streamlit.app/)
 
 ### Overview
 
