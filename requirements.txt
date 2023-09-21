@@ -5,3 +5,5 @@ matplotlib
 streamlit
 keras
 tensorflow
+pandas_datareader
+yfinance
