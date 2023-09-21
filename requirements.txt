@@ -7,3 +7,4 @@ keras
 tensorflow
 pandas_datareader
 yfinance
+sklearn
