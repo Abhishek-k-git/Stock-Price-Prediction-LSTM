@@ -1,7 +1,5 @@
 ## Stock Price Prediction Using LSTM
 
-![poster]([https://github.com/Abhishek-k-git/Movies-App/blob/main/screenshot/movies-app.png](https://github.com/Abhishek-k-git/Stock-Price-Prediction-LSTM/blob/main/image/poster.jpg))
-
 ### Table of content
 * [Overview](#Overview)
 * [Folder Structure](#Folder-Structure)
@@ -76,4 +74,4 @@ Customize your app by updating the name, adding a thumbnail, or changing the pri
 
 ### Application
 
-[Click me to view live application from here](https://themovies-app-tmdb.netlify.app/)
+[Click me to view live application from here](https://stock-price-prediction-lstm.streamlit.app/)
