@@ -5,7 +5,7 @@
 * [Folder Structure](#Folder-Structure)
 * [Setup](#Setup)
 * [Deployment](#Deployment)
-* [Application](#Application)
+* [Go to App](#Application)
 
 ### Overview
 
@@ -71,6 +71,10 @@ To deploy your Streamlit app, you can use Streamlit Sharing, which requires a Gi
 
 *Step 3: Configure the Streamlit Sharing dashboard *
 Customize your app by updating the name, adding a thumbnail, or changing the privacy settings. Streamlit Sharing also provides features for secret management, app performance monitoring, and app logs.
+
+```diff
+! Note: In Python, a requirements.txt file is a type of file that usually stores information about all the libraries, modules, and packages in itself that are used while developing a particular project. It should be included, while deploying on streamlit live server.
+```
 
 ### Application
 
